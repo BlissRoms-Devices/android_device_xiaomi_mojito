@@ -29,3 +29,5 @@ PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 #Bliss Flags
 TARGET_FACE_UNLOCK_SUPPORTED := true
 
+#Now Official
+BLISS_BUILDTYPE := OFFICIAL
